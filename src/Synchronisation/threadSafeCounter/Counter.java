@@ -14,6 +14,10 @@ public class Counter {
     }
 
     public void toggleFlag(){
-        flag = !flag
+        flag = !flag;
+    }
+
+    public boolean getFlag(){
+        return flag;
     }
 }
