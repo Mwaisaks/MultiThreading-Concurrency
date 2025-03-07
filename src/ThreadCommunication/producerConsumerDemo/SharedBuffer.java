@@ -1,4 +1,4 @@
-package ThreadCommunication;
+package ThreadCommunication.producerConsumerDemo;
 
 import java.util.LinkedList;
 import java.util.Queue;

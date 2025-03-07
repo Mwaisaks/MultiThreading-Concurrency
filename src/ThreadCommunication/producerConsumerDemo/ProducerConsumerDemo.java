@@ -1,4 +1,4 @@
-package ThreadCommunication;
+package ThreadCommunication.producerConsumerDemo;
 
 public class ProducerConsumerDemo {
 
